@@ -1,2 +1,1 @@
-# Project Porfolio
-# A repository for my past academic projects
+# Project Porfolio Repository
